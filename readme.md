@@ -1,6 +1,6 @@
 #AirBnB :house:
 
-Aplicação cliente/servidor, API REST no lado do servidor, com as tecnologias Adonis, ReactJS e React Native como base e nas demais funcionalidades forram utilizadas as tecnologias abaixo:
+Aplicação cliente/servidor, API REST no lado do servidor, com as tecnologias Adonis, ReactJS e React Native como base e nas demais funcionalidades foram utilizadas as tecnologias abaixo:
 
 ##Back-en
 * Lucid ORM - abstração lógica de acesso a dados
